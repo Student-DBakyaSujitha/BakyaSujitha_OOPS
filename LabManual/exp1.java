@@ -1,3 +1,4 @@
+package LabManual;
 import java.util.Scanner;
 
 class StudentResult {

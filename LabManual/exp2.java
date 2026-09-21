@@ -1,3 +1,4 @@
+package LabManual;
 class BankAccount {
 
     // Attributes

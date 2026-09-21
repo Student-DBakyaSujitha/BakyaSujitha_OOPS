@@ -1,3 +1,4 @@
+package LabManual;
 interface Vehicle {
     void start();
 }

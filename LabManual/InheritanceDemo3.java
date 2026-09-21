@@ -1,3 +1,4 @@
+package LabManual;
 // Abstract class
 abstract class Vehicle {
 
