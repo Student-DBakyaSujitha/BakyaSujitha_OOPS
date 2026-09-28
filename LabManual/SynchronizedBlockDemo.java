@@ -4,7 +4,7 @@ class Counter {
     int count = 0;
 
     void increment() {
-        synchronized (this) {
+        synchronized (this) {   
             count++;
         }
     }
